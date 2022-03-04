@@ -5,5 +5,6 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         System.out.println("firstclass ");
+        System.out.println("secondclass ");
     }
 }
